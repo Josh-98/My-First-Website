@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+
+ol {
+    font-family: Georgia;
+    color: seagreen;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+.greenp {
+    color: green;
+}
+
+.pinkli {
+    color: pink;
+}
+
+p {
+    align: justify;
+}
